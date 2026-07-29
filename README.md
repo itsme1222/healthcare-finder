@@ -4,7 +4,7 @@ Smart healthcare finder.
 
 ## About the Project
 - This project solves to find doctor.
-- It allows users to boook appoitment.
+- It allows users to book appoitment.
 - The main goal of this project is to find right doctor.
 
 ## Technologies Used
